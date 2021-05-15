@@ -8,15 +8,15 @@
 
 ## 二、目录
 ##### 贪心算法
->[一起学算法-455.分发饼干 ](https://www.jianshu.com/p/809a8a87b93e)
->[一起学算法-135.分发糖果 ](https://www.jianshu.com/p/6bcce931e69e)
->[一起学算法-435\. 无重叠区间 ](https://www.jianshu.com/p/a9efa7708b60)
->[一起学算法-452\. 用最少数量的箭引爆气球 ](https://www.jianshu.com/p/14d6d943375e)
->[一起学算法-122\. 买卖股票的最佳时机 II ](https://www.jianshu.com/p/36336b991615)
+1.[一起学算法-455.分发饼干 ](https://www.jianshu.com/p/809a8a87b93e)
+2.[一起学算法-135.分发糖果 ](https://www.jianshu.com/p/6bcce931e69e)
+3.[一起学算法-435\. 无重叠区间 ](https://www.jianshu.com/p/a9efa7708b60)
+4.[一起学算法-452\. 用最少数量的箭引爆气球 ](https://www.jianshu.com/p/14d6d943375e)
+5.[一起学算法-122\. 买卖股票的最佳时机 II ](https://www.jianshu.com/p/36336b991615)
 
 ##### 二分查找
->[一起学算法-69\. x 的平方根 ](https://www.jianshu.com/p/e9ed18f8db34)
->[一起学算法-34\. 在排序数组中查找元素的第一个和最后一个位置 ](https://www.jianshu.com/p/d29b09869900)
+1.[一起学算法-69\. x 的平方根 ](https://www.jianshu.com/p/e9ed18f8db34)
+2.[一起学算法-34\. 在排序数组中查找元素的第一个和最后一个位置 ](https://www.jianshu.com/p/d29b09869900)
 
 ##### 哈希集合
 >[一起学算法-1\. 两数之和 ](https://www.jianshu.com/p/80407b53d1c3)
