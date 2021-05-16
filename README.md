@@ -8,36 +8,31 @@
 
 ## 二、目录
 ##### 贪心算法
-1.[一起学算法-455.分发饼干 ](https://www.jianshu.com/p/809a8a87b93e)
-
-2.[一起学算法-135.分发糖果 ](https://www.jianshu.com/p/6bcce931e69e)
-
-3.[一起学算法-435\. 无重叠区间 ](https://www.jianshu.com/p/a9efa7708b60)
-
-4.[一起学算法-452\. 用最少数量的箭引爆气球 ](https://www.jianshu.com/p/14d6d943375e)
-
-5.[一起学算法-122\. 买卖股票的最佳时机 II ](https://www.jianshu.com/p/36336b991615)
+1. [一起学算法-455.分发饼干 ](https://www.jianshu.com/p/809a8a87b93e)
+2. [一起学算法-135.分发糖果 ](https://www.jianshu.com/p/6bcce931e69e)
+3. [一起学算法-435\. 无重叠区间 ](https://www.jianshu.com/p/a9efa7708b60)
+4. [一起学算法-452\. 用最少数量的箭引爆气球 ](https://www.jianshu.com/p/14d6d943375e)
+5. [一起学算法-122\. 买卖股票的最佳时机 II ](https://www.jianshu.com/p/36336b991615)
 
 ##### 二分查找
-1.[一起学算法-69\. x 的平方根 ](https://www.jianshu.com/p/e9ed18f8db34)
-
-2.[一起学算法-34\. 在排序数组中查找元素的第一个和最后一个位置 ](https://www.jianshu.com/p/d29b09869900)
+1. [一起学算法-69\. x 的平方根 ](https://www.jianshu.com/p/e9ed18f8db34)
+2. [一起学算法-34\. 在排序数组中查找元素的第一个和最后一个位置 ](https://www.jianshu.com/p/d29b09869900)
 
 ##### 哈希集合
->[一起学算法-1\. 两数之和 ](https://www.jianshu.com/p/80407b53d1c3)
-[一起学算法-771\. 宝石与石头 ](https://www.jianshu.com/p/0372eeb1903c)
+1. [一起学算法-1\. 两数之和 ](https://www.jianshu.com/p/80407b53d1c3)
+2. [一起学算法-771\. 宝石与石头 ](https://www.jianshu.com/p/0372eeb1903c)
 
 ##### 指针
->[一起学算法-88\. 合并两个有序数组 ](https://www.jianshu.com/p/7d2722a3f74b)
-[一起学算法-167\. 两数之和 II - 输入有序数组 ](https://www.jianshu.com/p/1c1d62f369e0)
-[一起学算法-633\. 平方数之和 ](https://www.jianshu.com/p/93023f19bc2b)
+1. [一起学算法-88\. 合并两个有序数组 ](https://www.jianshu.com/p/7d2722a3f74b)
+2. [一起学算法-167\. 两数之和 II - 输入有序数组 ](https://www.jianshu.com/p/1c1d62f369e0)
+3. [一起学算法-633\. 平方数之和 ](https://www.jianshu.com/p/93023f19bc2b)
 
 ##### 异或
->[一起学算法-1720\. 解码异或后的数组 ](https://www.jianshu.com/p/8e933852a761)
-
+1. [一起学算法-1720\. 解码异或后的数组 ](https://www.jianshu.com/p/8e933852a761)
+2. [一起学算法-1486\. 数组异或操作](https://www.jianshu.com/p/ab08eb17bc79)
 ##### 其他
->[一起学算法-1827\. 最少操作使数组递增 ](https://www.jianshu.com/p/78b2c40d8e99)
-[一起学算法-1480\. 一维数组的动态和 ](https://www.jianshu.com/p/09cd2776ec5b)
+1. [一起学算法-1827\. 最少操作使数组递增 ](https://www.jianshu.com/p/78b2c40d8e99)
+2. [一起学算法-1480\. 一维数组的动态和 ](https://www.jianshu.com/p/09cd2776ec5b)
 
 ## 三、结语
 学无止境，做一道算法题或许对个人能力提升不大。期待有一天能融会贯通，真正掌握算法的核心。
